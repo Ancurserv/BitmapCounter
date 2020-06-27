@@ -1,0 +1,2 @@
+# BitmapCounter
+PIL Experimentation
